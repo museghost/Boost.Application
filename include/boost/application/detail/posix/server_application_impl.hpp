@@ -34,7 +34,6 @@
 #include <stdio.h>
 #include <errno.h>
 
-#include <syslog.h>
 #include <fcntl.h>
 #include <sys/resource.h>
 
